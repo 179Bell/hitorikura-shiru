@@ -1,0 +1,9 @@
+{
+    "require": {
+        "bensampo/laravel-enum": "^4.2"
+    },
+    "require-dev": {
+        "nunomaduro/larastan": "^1.0",
+        "friendsofphp/php-cs-fixer": "^3.4"
+    }
+}
